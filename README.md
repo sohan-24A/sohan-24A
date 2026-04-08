@@ -22,3 +22,15 @@
 [![](https://visitcount.itsvg.in/api?id=sohan-24A&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+## GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohan-24A&theme=radical" alt="GitHub Streak" />
+
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohan-24A&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+
